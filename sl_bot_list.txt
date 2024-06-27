@@ -151,3 +151,4 @@ d6e4e648-84b5-48dc-8a75-8de2df33a5f5=MikeFreelander Resident
 afc5790c-94c0-42e4-b112-5ec70f7dccf9=MelissaMcIntosh Resident
 9c9e860a-613f-470f-a6dd-c8a917b51db3=BridgetArcher Resident
 51a196b8-8360-4651-94b2-46348523b174=Wahnner Resident
+2723d8c2-e407-4950-a8a1-c519fe792ea3=jennypenz Resident
