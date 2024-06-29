@@ -152,3 +152,6 @@ afc5790c-94c0-42e4-b112-5ec70f7dccf9=MelissaMcIntosh Resident
 9c9e860a-613f-470f-a6dd-c8a917b51db3=BridgetArcher Resident
 51a196b8-8360-4651-94b2-46348523b174=Wahnner Resident
 2723d8c2-e407-4950-a8a1-c519fe792ea3=jennypenz Resident
+dcd4d6eb-256f-434c-a3ad-7a2fd3c56179=JD Markstein
+19949363-5614-43f6-a39b-f4b1cb2a36c3=Billybitche Resident
+4c2d70ce-fef2-4a19-8942-01963af5d27f=PatConroy Resident
