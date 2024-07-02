@@ -157,3 +157,7 @@ dcd4d6eb-256f-434c-a3ad-7a2fd3c56179=JD Markstein
 4c2d70ce-fef2-4a19-8942-01963af5d27f=PatConroy Resident
 1f620835-99ab-4b26-9b4f-2f48128d0355=Lego Zirgar
 1115c6c1-d483-43b9-95ef-f78f4d9633f3=LindaBurney Resident
+6dc7d248-7ae4-478b-a9b3-9f16b5661562=SharonClaydon Resident
+185c222a-9bdc-482b-a1e2-17d86fb29db5=AnthonyByrne Resident
+d664e795-a575-4bca-bbf2-2cba311f7b2b=PatrickGorman Resident
+26fcd71e-a3a6-4100-ac8c-ebd58d3fd508=LukeGosling Resident
