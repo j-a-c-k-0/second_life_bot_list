@@ -16,7 +16,6 @@ d9eb900e-84d5-461f-a217-fd930963d032=BarbabyJoyce Resident
 8be3aa22-4ca3-44fc-b6f8-5fae2abfd3b2=BonnieBelle92 Resident
 7e1907c7-45a0-480b-85fe-db8b4b18c1fe=BonnieBelle93 Resident
 4c654510-9cfe-4f2c-9ae3-2c0becfc4bb1=BonnieBelle94 Resident
-3176e8c4-5b8c-45ea-a988-9161aed9b25d=BotFound Resident
 aa08fe17-d830-42c8-b17a-baa9147c38ef=Brenden Caiben
 7c40eeb1-e92d-43b4-b624-3d3d69ad676b=Brenden Chingseng
 89dd32f3-f7eb-40ba-8982-3adb42f1e64a=Brenden Hammand
