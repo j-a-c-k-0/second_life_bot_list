@@ -172,3 +172,6 @@ b66ea065-d78a-41ed-8d38-b16183ffc34b=silentprancer Resident
 f3c0b448-69ce-4bf5-9df3-23d8348c88d3=udiscen Resident
 4497bae8-e9d4-4458-8c6a-bd415330ea43=valiontenes Resident
 06d5814b-3e5f-4efb-8036-4b40412f4e55=ychorap Resident
+c1b132d9-d3c0-4a50-b1a5-e62974160e5e=didierraoult Resident
+c827a0c3-e682-4bba-aba5-33b29df6c9e4=Joebob Nootan
+734c249a-2032-4ed8-80dc-06497e74031b=Qoronario Resident
