@@ -175,3 +175,7 @@ f3c0b448-69ce-4bf5-9df3-23d8348c88d3=udiscen Resident
 c1b132d9-d3c0-4a50-b1a5-e62974160e5e=didierraoult Resident
 c827a0c3-e682-4bba-aba5-33b29df6c9e4=Joebob Nootan
 734c249a-2032-4ed8-80dc-06497e74031b=Qoronario Resident
+251ca8aa-4d3d-4508-aca3-5c5882e6759a=IanGoodenough Resident
+52ded986-4325-4b1a-aca4-097df4bd38cb=SharonBird Resident
+b54119ce-5aec-4ed4-a653-9f1d9681ca99=Eternitye Resident
+254005e8-f8f3-43ed-a1b5-e2131bb77923=HannahOmara Resident
